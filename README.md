@@ -25,4 +25,4 @@ To include the urn in the code use the include directive `#include "urn.hpp"`
 
 Please note that the include path must be adjusted depending on the location of the source files.
 
-In the sources files instructions for compilation is given. Some of the benchmarks need [Catch2](https://github.com/catchorg/Catch2).
+In the sources files instructions for compilation are given. Some of the benchmarks need [Catch2](https://github.com/catchorg/Catch2).
