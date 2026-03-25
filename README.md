@@ -18,7 +18,7 @@ An urn can then be created with `Urntype {n, k};`.
 An example would be `UrnOR {3, 3};
 
 ## Theoretical foundations
-For a deeper explanation of the different urn models and how the unranking-algorithmes work take a look at the included thesis.
+For a deeper explanation of the different urn models and how the unranking-algorithms work take a look at the included thesis.
 
 ## Usage and Compilation
 To include the urn in the code use the include directive `#include "urn.hpp"`
